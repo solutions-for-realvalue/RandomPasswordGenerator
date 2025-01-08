@@ -18,14 +18,14 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#%F0%9F%8C%9F-overview)
-- [Getting Started](#%F0%9F%8F%81-getting-started)
-- [Password Criteria](#%F0%9F%94%90-password-criteria)
-- [New Feature: Application Reset](#%F0%9F%93%A3-new-feature-application-reset)
-- [Source Code](#%F0%9F%93%84-source-code)
-- [User Interface Overview](#%F0%9F%93%9A-user-interface-overview)
-- [State Flow Diagram](#%F0%9F%A7%AC-state-flow-diagram)
-- [License](#%F0%9F%93%9C-license)
+- [Overview](#-overview)
+- [Getting Started](#-getting-started)
+- [Password Criteria](#-password-criteria)
+- [New Feature: Application Reset](#-new-feature-application-reset)
+- [Source Code](#-source-code)
+- [User Interface Overview](#-user-interface-overview)
+- [State Flow Diagram](#-state-flow-diagram)
+- [License](#-license)
 
 ---
 
