@@ -26,6 +26,7 @@
 - [User Interface Overview](#-user-interface-overview)
 - [State Flow Diagram](#-state-flow-diagram)
 - [License](#-license)
+- [Connect & Collaborate](#-connect--collaborate)
 
 ---
 
